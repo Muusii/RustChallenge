@@ -3,4 +3,16 @@ name = "diy"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "tests"
+path = "src/Daily/day1/tests.rs"
+
+[[bin]]
+name = "mins"
+path = "src/Daily/day2/mins.rs"
+
+[[bin]]
+name = "task"
+path = "src/Daily/day2/task.rs"
+
 [dependencies]
