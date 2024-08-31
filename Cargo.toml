@@ -15,4 +15,8 @@ path = "src/Daily/day2/mins.rs"
 name = "task"
 path = "src/Daily/day2/task.rs"
 
+[[bin]]
+name = "tasks"
+path = "src/Daily/day3/tasks.rs"
+
 [dependencies]
